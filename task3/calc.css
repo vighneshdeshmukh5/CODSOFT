@@ -1,0 +1,49 @@
+body{
+    background-color: gray;
+}
+.container
+{   
+    box-sizing: border-box;
+    box-shadow: black;
+    border-radius: 0cqh;
+    size: 100px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    margin: auto;
+    border: 2px solid #ccc;
+    padding: 10px;
+    border-radius: 5px; 
+    background-color: brown;
+    
+}
+.red 
+{
+    background-color: red;
+    font-weight: 00;
+
+}
+form .field{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 0;
+    
+}
+form .field input{
+    text-align: right;
+    flex: 1;
+    font-size: 40px;
+}
+
+.Calculator form input{
+    align-items: center;
+    justify-items: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    border: 0;
+    outline: 0;
+ cursor: pointer;
+
+}
